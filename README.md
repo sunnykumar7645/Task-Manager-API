@@ -84,6 +84,10 @@ python manage.py migrate
 ```
 python manage.py runserver
 ```
+# Documentation tool Swagger
+```
+http://localhost:8000/swagger/
+```
 
 🔑 Usage
 
